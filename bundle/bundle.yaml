@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "Harsha-cjoc-casc-dev-controller"
+description: "CloudBees CI configuration bundle for the Harsha-cjoc-casc dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/harsha-cjoc-casc/dev-controller"
+parent: "base"
